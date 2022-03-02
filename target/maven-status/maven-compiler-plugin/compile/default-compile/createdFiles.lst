@@ -1,0 +1,8 @@
+book\manage\entity\Borrow.class
+book\manage\entity\Book.class
+book\manage\sql\SqlUtil.class
+book\manage\Main.class
+book\manage\mapper\BookMapper.class
+book\manage\server\ManageService.class
+book\manage\OtherUtils\Utility.class
+book\manage\entity\Student.class

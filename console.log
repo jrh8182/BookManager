@@ -1,0 +1,30 @@
+3月 01, 2022 10:38:46 下午 book.manage.server.ManageService lambda$addStudent$0
+信息: 新添加了一条学生信息:Student(sid=0, name=爱看, sex=男, grade=1999)
+3月 01, 2022 10:44:42 下午 book.manage.server.ManageService lambda$addBook$1
+信息: 新添加了一条书籍信息:Book(bid=0, title=黄色书, desc=很黄很暴力, price=20.3)
+3月 01, 2022 11:05:45 下午 book.manage.server.ManageService lambda$addBorrow$2
+信息: 新添加了一条借阅信息:学生id1  书籍id8
+3月 01, 2022 11:07:00 下午 book.manage.server.ManageService lambda$addBorrow$2
+信息: 新添加了一条借阅信息:学生id = 1  书籍id = 7
+3月 02, 2022 5:47:19 下午 book.manage.server.ManageService lambda$addBorrow$2
+信息: 新添加了一条借阅信息:学生id = 14  书籍id = 1
+3月 02, 2022 5:48:28 下午 book.manage.server.ManageService lambda$addBorrow$2
+信息: 新添加了一条借阅信息:学生id = 14  书籍id = 6
+3月 02, 2022 6:21:01 下午 book.manage.server.ManageService lambda$addStudent$0
+信息: 新添加了一条学生信息:Student(sid=0, name=王尼玛, sex=男, grade=2003)
+3月 02, 2022 6:22:14 下午 book.manage.server.ManageService lambda$addBook$1
+信息: 新添加了一条书籍信息:Book(bid=0, title=简爱, desc=言情名著, price=20.4)
+3月 02, 2022 6:23:02 下午 book.manage.server.ManageService lambda$addBorrow$2
+信息: 新添加了一条借阅信息:学生id = 15  书籍id = 9
+3月 02, 2022 6:23:20 下午 book.manage.server.ManageService lambda$addBorrow$2
+信息: 新添加了一条借阅信息:学生id = 15  书籍id = 8
+3月 02, 2022 6:59:19 下午 book.manage.server.ManageService lambda$addStudent$0
+信息: 新添加了一条学生信息:Student(sid=0, name=东方, sex=男, grade=2019)
+3月 02, 2022 6:59:55 下午 book.manage.server.ManageService lambda$addBook$1
+信息: 新添加了一条书籍信息:Book(bid=0, title=草房, desc=儿童文学, price=42.2)
+3月 02, 2022 7:00:31 下午 book.manage.server.ManageService lambda$addBorrow$2
+信息: 新添加了一条借阅信息:学生id = 17  书籍id = 10
+3月 02, 2022 7:02:33 下午 book.manage.server.ManageService lambda$addStudent$0
+信息: 新添加了一条学生信息:Student(sid=0, name=北京, sex=女, grade=1304)
+3月 02, 2022 7:03:30 下午 book.manage.server.ManageService lambda$addBorrow$2
+信息: 新添加了一条借阅信息:学生id = 19  书籍id = 9
